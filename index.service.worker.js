@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795203782|2546750';
+const CACHE_VERSION = '1795508360|3018108';
 /** @type {string} */
 const CACHE_PREFIX = 'มหาแดนพันภพ: ศึก-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
